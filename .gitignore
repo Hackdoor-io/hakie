@@ -11,6 +11,7 @@
 model.nlp
 package-lock.json
 yarn.lock
+.idea
 
 # User-specific stuff
 .idea/**/workspace.xml
