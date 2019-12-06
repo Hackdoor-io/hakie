@@ -1,0 +1,22 @@
+[
+  {
+    "sentence": "Hakie, please make a release",
+    "domain": "release.build"
+  },
+  {
+    "sentence": "Hakie, build a new release",
+    "domain": "release.build"
+  },
+  {
+    "sentence": "Hakie, please build a new release",
+    "domain": "release.build"
+  },
+  {
+    "sentence": "Hakie, please release a new build",
+    "domain": "release.build"
+  },
+  {
+    "sentence": "Hakie, please release the new build",
+    "domain": "release.build"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "sentence": "Hakie, how many reads has article 43?",
+    "domain": "article.reads"
+  },
+  {
+    "sentence": "Hakie, how is popular the article 10?",
+    "domain": "article.reads"
+  },
+  {
+    "sentence": "Hakie, how many readers has the article 102?",
+    "domain": "article.reads"
+  },
+  {
+    "sentence": "Hakie, how ridden is article 102?",
+    "domain": "article.reads"
+  }
+]
