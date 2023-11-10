@@ -11,7 +11,7 @@
   "dependencies": {
     "discord.js": "11.5.1",
     "dotenv": "8.2.0",
-    "axios": "0.19.0",
+    "axios": "1.6.0",
     "node-nlp": "4.0.0-rc.4"
   },
   "devDependencies": {
